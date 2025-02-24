@@ -6,7 +6,7 @@ Hailing from the vibrant landscapes of Warangal, India, I'm Avinash Chinnala –
 
 My Journey 🛤️: From Bosch Global Software Technologies to the World of Possibilities
 
-As an Associate Software Engineer at Bosch Global Software Technologies, I've embarked on a thrilling adventure from January to July 2023. Here, I've woven the magic of HTML, CSS, JavaScript, Java, and the Spring framework to craft visually captivating and seamlessly functional web applications. Dive into my code, and you'll find a symphony of precision and creativity.
+As an Associate Software Engineer at Bosch Global Software Technologies, I've embarked on a thrilling adventure from July 2022 to August 2023. Here, I've woven the magic of HTML, CSS, JavaScript, Java, and the Spring framework to craft visually captivating and seamlessly functional web applications. Dive into my code, and you'll find a symphony of precision and creativity.
 
 My Secret Sauce 🧙: Code Collaboration and the Art of MATLAB
 
